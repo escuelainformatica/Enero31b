@@ -7,4 +7,4 @@ Este es un proyecto de ejmplo
 * Ir a la carpeta de proyecto
 * abrir una ventana cmd
 * ejecutar cd c:\cursojava
-* Escribir git clone (y copiar la direccion)
+* Escribir git clone https://github.com/jorgecc/Enero31b.git
